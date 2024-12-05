@@ -3,7 +3,7 @@
     <nav class="navbar">
       <div class="container nav-container">
         <NuxtLink to="/" class="logo">
-          <span class="logo-full">布灵图床</span>
+          <span class="logo-full">灵界图床</span>
           <span class="logo-short">布灵</span>
         </NuxtLink>
 
@@ -30,7 +30,7 @@
 
     <footer class="footer">
       <div class="container footer-content">
-        <p class="copyright">© {{ currentYear }} 布灵图床 · 简单好用的图床服务 </p>
+        <p class="copyright">© {{ currentYear }} 灵界图床 · 简单好用的图床服务 </p>
         <p class="copyright">❤️ Made with <a href="https://anuuu.com" target="_blank" rel="noopener"
             class="footer-link">Anuuu.com</a> ·
           <a href="https://github.com/wzs8/buling-imgbed" target="_blank" rel="noopener" class="footer-link">GitHub</a> ·
